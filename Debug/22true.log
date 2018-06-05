@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\1\source\repos\22true\22true\plans.h(43): warning C4101: ch: неиспользованная локальная переменная
+c:\users\1\source\repos\22true\22true\money.h(58): warning C4101: ch: неиспользованная локальная переменная
+c:\users\1\source\repos\22true\22true\main.cpp(33): warning C4244: инициализация: преобразование "std::streamoff" в "float", возможна потеря данных
+c:\users\1\source\repos\22true\22true\main.cpp(71): warning C4244: инициализация: преобразование "std::streamoff" в "float", возможна потеря данных
+c:\users\1\source\repos\22true\22true\main.cpp(117): warning C4244: инициализация: преобразование "std::streamoff" в "float", возможна потеря данных
+c:\users\1\source\repos\22true\22true\main.cpp(177): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\source\repos\22true\22true\main.cpp(194): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\source\repos\22true\22true\io.h(70): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\1\source\repos\22true\22true\io.h(68): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\1\source\repos\22true\22true\main.cpp(222): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::map<Person,int,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> IO<Person>::toRandomMap(int)"
+          with
+          [
+              _Kty=Person,
+              _Ty=int
+          ]
+  c:\users\1\source\repos\22true\22true\main.cpp(221): note: выполняется компиляция ссылки на экземпляр шаблон класс "IO<Person>"
+  22true.vcxproj -> C:\Users\1\source\repos\22true\Debug\22true.exe
